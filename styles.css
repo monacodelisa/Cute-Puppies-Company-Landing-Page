@@ -1,0 +1,113 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+header {
+  background: linear-gradient(#d6b3c8, #bf88a9, #a9608c);
+  height: 35vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  color: #774061;
+  font-family: "Lobster", cursive;
+  text-align: center;
+  padding: 3vh 0 0;
+}
+
+.logo-wrapper {
+  max-width: 100px;
+  max-height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto;
+  box-shadow: 0 0 10px 3px #5f324d;
+}
+
+#logo {
+  max-width: 110%;
+  text-indent: -50% -30%;
+}
+
+h2 {
+  color: #58335b;
+  font-size: 1.3rem;
+  font-family: "Lobster", cursive;
+  text-align: center;
+  padding-top: 1.5vh;
+}
+
+main {
+  background-color: #d6c6d7;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  padding: 5vh;
+}
+
+h3 {
+  color: #58335b;
+  font-size: 1.41rem;
+  font-family: "Lobster", cursive;
+  text-align: center;
+}
+
+.team-gallery {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.puppy {
+  max-width: 20vw;
+}
+
+.team-gallery img {
+  background-color: white;
+  max-width: 20vw;
+  overflow: hidden;
+  padding: 1.5vh;
+  margin: 3vh;
+  border-radius: 50% 0 50% 0;
+  box-shadow: 0 0 10px 3px #827283;
+}
+
+.team-gallery img:hover {
+  background-color: #d6b3c8;
+  transform: scale(1.1);
+  box-shadow: 0 0 5px 1px #827283;
+  transition: all 0.3s ease-out;
+  z-index: 100;
+}
+
+.team-gallery p {
+  font-size: 1.3rem;
+  margin-left: 3vw;
+}
+
+footer {
+  background: linear-gradient(#a9608c, #333);
+  height: 10vh;
+  margin: -2vh;
+  overflow: hidden;
+}
+
+footer p {
+  color: #fff;
+  padding: 4vh;
+  text-align: center;
+}
+
+footer span {
+  color: grey;
+}
+
+footer a {
+  color: grey;
+  text-decoration: none;
+}
