@@ -1,8 +1,8 @@
 
 <h1>Company Home Page with Flexbox</h1>
-<p> I did this project as part of the CodeCademy Frontend Engeneer Path,<br>
-  there was a lot of freedom, so I did many extra things that were not required,
-  but I was just coding for fun - Jan 30, 2022</p>
+<p> I did this project as part of the CodeCademy Frontend Engeneer Path, <br>
+  but I did many extra things that were not required, and it was self practice not guided practice, <br> 
+  so I consider it more of a personal project, I was just coding for fun - Jan 30, 2022</p>
 
 <p> I added my custom favicon, and added some transitions & hover effects <br>
   however I did the project after work, after I have been coding for several hours <br>
