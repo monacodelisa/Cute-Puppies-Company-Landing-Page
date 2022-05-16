@@ -1,5 +1,5 @@
+<h2><a href="https://esteecodes.github.io/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy/" target="_blank">Company Home Page with Flexbox - 'Cute Puppies'</a></h2>
 
-<h1>Company Home Page with Flexbox</h1>
 <p> I did this project as part of the CodeCademy Frontend Engeneer Path, <br>
   but I did many extra things that were not required, and it was self practice not guided practice, <br> 
   so I consider it more of a personal project, I was just coding for fun - Jan 30, 2022</p>
