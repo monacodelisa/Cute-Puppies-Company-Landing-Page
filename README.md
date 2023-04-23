@@ -8,7 +8,7 @@
   however I did the project after work, after I have been coding for several hours <br>
   so at some point I just stopped because Iwas getting tired <br>and I have not reivisited the project since.</p>
 
-<h2><a href="https://esteecodes.github.io/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy/" target="_blank">'Cute Puppies'</a></h2>
+<h2><a href="https://monacodelisa.github.io/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy/" target="_blank">'Cute Puppies'</a></h2>
 
 <h3>Connect with me on Social Media ↓</h3>
 <br/>
