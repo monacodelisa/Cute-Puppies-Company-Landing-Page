@@ -1,8 +1,8 @@
-<h2><a href="https://monacodelisa.github.io/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy/" target="_blank">Company Home Page with Flexbox - 'Cute Puppies'</a></h2>
+<h2><a href="https://monacodelisa.github.io/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy/" target="_blank">'Cute Puppies' Company Landing Page</a></h2>
 
 <p> I did this project as part of the CodeCademy Frontend Engeneer Path, <br>
   but I did many extra things that were not required, and it was self practice not guided practice, <br> 
-  so I consider it more of a personal project, I was just coding for fun - Jan 30, 2022</p>
+  so I consider it more of a personal project, I was just coding for fun</p>
 
 <p> I added my custom favicon, and added some transitions & hover effects <br>
   however I did the project after work, after I have been coding for several hours <br>
